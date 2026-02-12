@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぴえん症候群 - Amu feat. 初音ミク",
+  "base_artist": "Amu",
+  "createdAt": "2026-02-12T09:59:19.135391Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぴえん症候群(カバーVo:手野ひら)",
+      "artist": "Amu feat.初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ぴえん症候群(カバーVo_手野ひら)_Amu_feat.初音ミク.txt"
+    }
+  ]
+}
